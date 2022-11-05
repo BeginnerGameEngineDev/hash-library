@@ -1,5 +1,8 @@
-# Portable C++ Hashing Library
+# Portable C++ Hashing Library Now with CMake
 
+All I did was add a CMakeList.txt file, works with vs2022 Not tested with anything else
+
+# ORGINAL DESC BELOW
 This is a mirror of my library hosted at https://create.stephan-brumme.com/hash-library/
 
 In a nutshell:
